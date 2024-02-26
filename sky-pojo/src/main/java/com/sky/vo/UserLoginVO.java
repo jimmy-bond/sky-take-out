@@ -15,6 +15,7 @@ public class UserLoginVO implements Serializable {
 
     private Long id;
     private String openid;
+    //生成的jwt
     private String token;
 
 }
